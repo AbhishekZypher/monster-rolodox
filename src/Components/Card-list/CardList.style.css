@@ -1,0 +1,7 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr; /* make 4 cloums of 1 each fractions */
+  grid-gap: 20px;
+}
